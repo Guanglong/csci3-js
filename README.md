@@ -1,2 +1,1 @@
-# csci3-js
-course assignments by Long for cscie-3 
+course assignments by me for cscie-3 , which is password protected
