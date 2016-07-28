@@ -1,1 +1,1 @@
-course assignments by me for cscie-3 , which is password protected
+course assignments by me for cscie3 , which is password protected
